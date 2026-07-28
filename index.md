@@ -48,9 +48,28 @@ LibreAAC does not provide or require user accounts.
 
 No registration, login, email address, or other account information is required.
 
+## Contact and beta-testing email
+
+The LibreAAC application does not collect an email address. If a person
+voluntarily sends email for support or to request access to the closed Google
+Play test, the developer receives the sender’s address and any information
+included in that message.
+
+For a testing request, the supplied Google or Google Workspace account address
+is used to add that person to LibreAAC’s Google Play tester list and to send
+information needed to join the test. Support and testing email is not used for
+advertising or added to the application. Google processes tester account
+information under Google’s own privacy terms.
+
+Testers may ask the developer to remove their address from the tester list and
+delete the related email correspondence.
+
 ## Data retention and deletion
 
-The developer does not retain user data.
+The developer does not receive or retain data created or used inside the
+LibreAAC application. Voluntarily submitted support and tester email may remain
+in the developer’s mailbox or Google Play tester list until it is no longer
+needed or the sender asks for its removal.
 
 Files stored in LibreAAC’s private application storage remain on the device until they are deleted by the user, the application’s data is cleared, or the application is uninstalled.
 
@@ -89,5 +108,4 @@ Questions about this privacy policy may be directed to:
 **Developer:** Luke Howson
 **Application:** LibreAAC
 **Email:** libretastic@gmail.com
-**Source code:** [GITHUB REPOSITORY URL--PENDING]
-
+**Source code:** [LibreAAC for Android on GitHub](https://github.com/libretastic/libreaac-android)
